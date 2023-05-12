@@ -2,5 +2,25 @@
     float: right;
 }
 .page{
-    margin: 5px;
+    margin: 20px;
+    color: white;
+    background-color: #185666;
+}
+.data{
+    padding: 20px;
+    text-align: center;
+    background-color: #7ac4d6;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+}
+p{
+    color: #0d4b5b;
+}
+h2{
+    text-align: center;
+}
+hr{
+    border-color: #11424e;
 }
